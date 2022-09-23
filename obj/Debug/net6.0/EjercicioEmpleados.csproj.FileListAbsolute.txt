@@ -1,0 +1,15 @@
+C:\Users\Juan\source\repos\EjercicioEmpleados\obj\Debug\net6.0\EjercicioEmpleados.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\EjercicioEmpleados\obj\Debug\net6.0\EjercicioEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\source\repos\EjercicioEmpleados\obj\Debug\net6.0\EjercicioEmpleados.AssemblyInfoInputs.cache
+C:\Users\Juan\source\repos\EjercicioEmpleados\obj\Debug\net6.0\EjercicioEmpleados.AssemblyInfo.cs
+C:\Users\Juan\source\repos\EjercicioEmpleados\obj\Debug\net6.0\EjercicioEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\EjercicioEmpleados\bin\Debug\net6.0\EjercicioEmpleados.exe
+C:\Users\Juan\source\repos\EjercicioEmpleados\bin\Debug\net6.0\EjercicioEmpleados.deps.json
+C:\Users\Juan\source\repos\EjercicioEmpleados\bin\Debug\net6.0\EjercicioEmpleados.runtimeconfig.json
+C:\Users\Juan\source\repos\EjercicioEmpleados\bin\Debug\net6.0\EjercicioEmpleados.dll
+C:\Users\Juan\source\repos\EjercicioEmpleados\bin\Debug\net6.0\EjercicioEmpleados.pdb
+C:\Users\Juan\source\repos\EjercicioEmpleados\obj\Debug\net6.0\EjercicioEmpleados.dll
+C:\Users\Juan\source\repos\EjercicioEmpleados\obj\Debug\net6.0\refint\EjercicioEmpleados.dll
+C:\Users\Juan\source\repos\EjercicioEmpleados\obj\Debug\net6.0\EjercicioEmpleados.pdb
+C:\Users\Juan\source\repos\EjercicioEmpleados\obj\Debug\net6.0\EjercicioEmpleados.genruntimeconfig.cache
+C:\Users\Juan\source\repos\EjercicioEmpleados\obj\Debug\net6.0\ref\EjercicioEmpleados.dll
